@@ -1,0 +1,87 @@
+body{
+background-color: lightgrey;
+
+}
+p{
+font-size: 50px;
+color: blue;
+
+}
+.fs1{
+text-transform: capitalize;
+
+
+
+}
+.fs2{
+font-weight: 200;
+font-variant: small-caps;
+
+
+
+}
+.fs3{
+font-style: italic;
+
+
+
+}
+.fs4{
+font-family: "Gill Sans Extrabold",sans-serif;
+
+
+
+}
+.fs5{
+font-family: "Lucida Console", Courier,monospace;
+
+
+
+}
+.fs6{
+text-decoration: underline;
+text-underline-position: under;
+text-decoration-style: wavy;
+text-decoration-color: gold;
+}
+
+
+
+.fs7{
+text-decoration: underline;
+text-underline-position: under;
+text-decoration-style: dotted;
+text-decoration-color: whitesmoke;
+
+
+
+
+}
+.fs8{
+text-shadow: 2px -2px orange;
+
+
+}
+.fs9{
+text-shadow: 0 0 10 px orange ;
+
+
+
+
+}
+.fs10{
+font-size: 75px;
+text-shadow: 2px -2px red, 4px -4px black;
+
+
+
+
+}
+.f1{
+font-size: 2cm;
+font-weight:700;
+font-family: 'Rubik Gemstones', cursive;
+text-shadow: 5px -5px green;
+
+
+}
